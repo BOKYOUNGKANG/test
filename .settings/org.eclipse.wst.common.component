@@ -5,9 +5,5 @@
         <wb-resource deploy-path="/WEB-INF/classes" source-path="/src/main/java"/>
         <property name="context-root" value="test"/>
         <property name="java-output-path" value="/test/target/classes"/>
-<<<<<<< HEAD
->>>>>>> branch 'test00' of https://github.com/BOKYOUNGKANG/test.git
-=======
->>>>>>> refs/heads/test
     </wb-module>
 </project-modules>

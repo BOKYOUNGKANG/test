@@ -9,6 +9,10 @@
 <body>
 testcode
 
+<<<<<<< HEAD
 test01
+=======
+test01 추가
+>>>>>>> refs/heads/test
 </body>
 </html>
